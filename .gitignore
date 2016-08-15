@@ -7,3 +7,4 @@
 *.db
 /Debug
 /ipch/MFCAPPLICATION1-99e6b5c4
+*.ipch
