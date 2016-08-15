@@ -98,8 +98,7 @@ BOOL CMFCApplication1App::InitInstance()
 	LoadStdProfileSettings(4);  // MRU를 포함하여 표준 INI 파일 옵션을 로드합니다.
 
 
-	InitContextMenuManager();  //test8
-
+	InitContextMenuManager();  //test7, test8
 	InitKeyboardManager();
 
 	InitTooltipManager();
