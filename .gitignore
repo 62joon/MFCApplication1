@@ -9,3 +9,5 @@
 /ipch/MFCAPPLICATION1-99e6b5c4
 *.ipch
 /*.bak
+/x64/Debug
+*.aps
